@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Türkçe Çocuk",BabyFirst (720p)
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest/4.m3u8
-#EXTINF:-1 tvg-id="MinikaCocuk.tr@SD" group-title="Türkçe Çocuk",Minika Cocuk (720p)
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+#EXTINF:-1 tvg-id="MinikaCocuk.tr@SD" group-title="Türkçe Çocuk",Minika Cocuk (576p)
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr@SD" group-title="Türkçe Çocuk",Minika Go (576p)
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr@SD" group-title="Türkçe Çocuk",TRT Diyanet Çocuk (720p)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-id="3ABNKids.us@SD" tvg-logo="https://i.imgur.com/z3npqO1.png" group-title="English Kids",3ABN Kids Network
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w530312607_b1928000_slen.m3u8?nimblesessionid=798992769
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w88934211_b1928000_slen.m3u8?nimblesessionid=801754039
 #EXTINF:-1 tvg-id="AkiliKids.ke@SD" tvg-logo="https://i.imgur.com/xFm2co6.png" group-title="English Kids",Akili Kids!
-https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/chunklist_w1148238819_b2528000_slke.m3u8
+https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/chunklist_w257875480_b2528000_slke.m3u8
 #EXTINF:-1 tvg-id="AnimationPlus.us@SD" tvg-logo="https://i.imgur.com/OIFK6JB.png" group-title="English Kids",Animation+ (1080p) [Geo-blocked]
 https://pb-ioe9d0fpkd6pp.akamaized.net/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg@India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" group-title="English Kids",Animax Asia India (1080p) [Geo-blocked]
-https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02159-kcglobal-animax-samsungin/cb543d1a7e6c648d98d43e66d2ef45a0f93d1fde1d6988693eb5518975d30b0a84eaf090bc49ea7555ca1d8d7c0b6c075c7ac24a8b2f1cc08f7cfe51657b1520c9cbb1196ca828218a2dd0bd1b934b3463807207eb5b0666d1ec08048433b16a7762826b4b63424139949f5c64b0c548d43f7ca18de5e29ce56b7da62a1fbafe07fda8b40357fc5420148479b71d3285a87bbe9643e5d98a0ccb1d9c40cb209495f28ad106bab7b048b6baa652f072020429a4c1035d77ccfad0191c896327561b1ac7ae80ea4b2e82464e668995a0926ae51ac28524ce3579eb72f835e43ae833f8e9c678eb6619ddfc64461411b4a749ef1a336052f58d80/82/1920x1080_5129264/index.m3u8
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02159-kcglobal-animax-samsungin/cb543d19796c678f9ad43e62d9ef45a5f93d1fde1d6988693eb5518975d30b5d80bff3c1e44cef7555c9188d7c0b6c075c7ac219df7f1cc58f29aa56677446749bcde619b8a33131247d871b0a82502c279c1c23a667027cdaec6879ef5f904c75df6c940c2c54a8a81bf23607efb010bb7d3ab375ea40a7fb08107600259589b7aeb689c5c0ea1cbb8d690dd77005b29d22989645f8eaf561a53ed93ca848c1c3ef8ecd10a0b6bb53f364b36250b843c2524fcdf5fdf513b50e7f13131e2d32d84e86fab4/169/1920x1080_5129264/index.m3u8
 #EXTINF:-1 tvg-id="AnimexHIDIVE.us@SD" tvg-logo="https://i.imgur.com/v0BlxCa.png" group-title="English Kids",ANIME x HIDIVE (720p) [Geo-blocked]
 https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/V00000001/0/HLS/playlist_3000k_20260818T131854.m3u8
 #EXTINF:-1 tvg-id="Aqlvoy.uz@SD" tvg-logo="https://i.imgur.com/ekF5cAi.png" group-title="English Kids",Aqlvoy
@@ -26,15 +26,13 @@ https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest/4.m3u8
 #EXTINF:-1 tvg-id="KMBYLD275.us@SD" tvg-logo="https://i.imgur.com/px0CSti.png" group-title="English Kids",Blues TV
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="BratTV.us@SD" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="English Kids",Brat TV (1080p)
-https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/f64898e5-7f47-401d-b4c0-3a6204cc26d0/4.m3u8
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/33b93a3b-17e3-4db7-87d9-0f6b93d43460/4.m3u8
 #EXTINF:-1 tvg-id="CampSpoopy.us@SD" tvg-logo="https://img2.static-ottera.com/prod/tg/linear_channel/logo/640x360/camp-spoopy-2021_1920-x-1080_option-5.jpg" group-title="English Kids",Camp Spoopy (576p)
-https://stream.ads.ottera.tv/cl/260822da4q66jmp65s739ur3pg/1280x720_2300000_0_f.m3u8?i=475_269
+https://stream.ads.ottera.tv/cl/260824da5tbvjbq89c73a83ti0/1280x720_2300000_0_f.m3u8?i=475_269
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" group-title="English Kids",Cartoon Classics (576p)
 http://5.188.159.128:8070/Cartoon_Network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us@SD" tvg-logo="https://i.imgur.com/61eV77C.png" group-title="English Kids",Christian Youth Channel (CYC) (1080p)
-http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/chunklist_w1507753487_b1928000_slar.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png" group-title="English Kids",Disney Channel (720p) [Geo-blocked]
-http://212.5.144.156/disney/tracks-v1a1/mono.m3u8
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/chunklist_w1163543899_b1928000_slar.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="English Kids",Disney Junior (720p)
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="English Kids",Disney XD (720p)
@@ -51,14 +49,12 @@ https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 https://dil9xdvretp0f.cloudfront.net/index/1.m3u8
 #EXTINF:-1 tvg-id="IuniorTV.it@SD" tvg-logo="https://i.imgur.com/FBOJnfT.png" group-title="English Kids",Iunior TV (1080p)
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
-#EXTINF:-1 tvg-id="JimJamEurope.uk@SD" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="English Kids",JimJam Europe (720p)
-http://212.5.144.156:8080/jimjam/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="English Kids",Kartoon Channel (1080p)
 https://lightning-fnf-samsungaus.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="KidoodleTV.ca@SD" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="English Kids",Kidoodle.TV (1080p)
 https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KidsFlix.us@SD" tvg-logo="https://i.imgur.com/4Pn0ADQ.png" group-title="English Kids",KidsFlix (1080p) [Not 24/7]
-https://stream.ads.ottera.tv/cl/260822da4q70s9k28c73fjjso0/1280x720_2300000_0_f.m3u8?i=475_50
+https://stream.ads.ottera.tv/cl/260824da5tcqoeuhoc73d69gl0/1280x720_2300000_0_f.m3u8?i=475_50
 #EXTINF:-1 tvg-id="KnowledgeNetwork.ca@SD" tvg-logo="https://i.imgur.com/VfofmZZ.png" group-title="English Kids",Knowledge Network (720p) [Geo-blocked]
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index_1.m3u8
 #EXTINF:-1 tvg-id="JimJam.hu@SD" tvg-logo="https://i.imgur.com/ODhkYyx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="English Kids",JimJam
@@ -76,7 +72,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk@SD" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="English Kids",Moonbug Kids (1080p)
 https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk@English" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="English Kids",Mr Bean Live Action (1080p)
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb543d1a7e6c648d98d43e66d2ef45a0f93d1fde1d6988693eb5518975d30b5b8dedf1c6ee4ebd7555ca1d8a7c0b6c075c7ac318dc7b1c92dc28aa51357c112192cde6196ca828218a2dd0bd1b934b3463807207eb5b0666d1ec08048433b16a7762826b4b63424139949f5c64b0c548d43f7ca18de5e29ce56b7da62a1fbafe07fda8b40357fc5420148479b71d3285a87bbe9643e5d98a0ccb1d9c40cb209495f28ad106bab7b048b6baa652f072020429a4c1035d77ccfad0191c896327561b1ac7ae80ea4b2e82464e668995a0926ae51ac28524ce3579eb72f835e43ae83ff9e9c624e96619ddd38b824bd184f310f7cd4131ff3b4800/43/1920x1080_6046040/index.m3u8
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb543d19796c678f9ad43e62d9ef45a5f93d1fde1d6988693eb5518975d30b08d1b9a5c1ea1ab97555c9188d7c0b6c075c7ac34dde7d1c958b7cad5237751f77cbcdb419b8a33131247d871b0a82502c279c1c23a667027cdaec6879ef5f904c75df6c940c2c54a8a81bf23607efb010bb7d3ab375ea40a7fb08107600259589b7aeb689c5c0ea1cbb8d690dd77005b29d22989645f8eaf561a53ed93ca848c1c3ef8ecd10a0b6bb53f364b36051b84390544fcdf5666be0baf77cc27eec1c754e805e2aed/148/1920x1080_6046040/index.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="English Kids",Mr. Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/1080p-vtt-ar/index.m3u8
 #EXTINF:-1 tvg-id="Naruto.us@US" tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="English Kids",Naruto (1080p)
@@ -84,9 +80,7 @@ https://d21vn5eki5qsdi.cloudfront.net/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-id="NickJrAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="English Kids",Nick Jr. Asia (720p)
 http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.ru@SD" tvg-logo="https://i.imgur.com/w8iE8dV.png" group-title="English Kids",Nickelodeon (576p)
-http://stream.mcquack.net/443/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1&token=6b20eeb283f958b35c5e48de497cb888
-#EXTINF:-1 tvg-id="Nickelodeon.uk@Plus1" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="English Kids",Nickelodeon +1 (720p)
-https://sra72yz.s.gy/NICKELODEON_UK_PLUS_1.m3u8
+http://stream.mcquack.net/443/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1&token=394e4795837fe2487c292828aefc0327
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="English Kids",Nickelodeon Asia (1080p)
 http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 #EXTINF:-1 tvg-id="NinjaKidzTV.us@SD" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="English Kids",Ninja Kidz (720p)
@@ -114,39 +108,39 @@ https://ryanandfriends-samsungau.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="STomSings.us@HD" tvg-logo="https://i.postimg.cc/5tfB3Ktv/In-Shot-20260818-133542271.png" group-title="English Kids",S Tom Sings (1080p)
 https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/index-f6-v1-a1.m3u8
 #EXTINF:-1 tvg-id="SkwadPlay.us@SD" tvg-logo="https://i.imgur.com/cP56PrG.png" group-title="English Kids",SKWAD (1080p)
-https://stream.ads.ottera.tv/cl/260822da4q81o1ibgs73e02qhg/1280x720_2300000_0_f.m3u8?i=475_71
+https://stream.ads.ottera.tv/cl/260824da5tdrgevhtc7381iuvg/1280x720_2300000_0_f.m3u8?i=475_71
 #EXTINF:-1 tvg-id="SonicTV.us@SD" tvg-logo="https://i.imgur.com/TKhRlrR.png" group-title="English Kids",Sonic TV (720p)
-https://stream-us-east-1.getpublica.com/cl/260822da4q82un6qms73c6adk0/654x480_2750601_1_f.m3u8?i=513_2260
+https://stream-us-east-1.getpublica.com/cl/260824da5tdskvqmgc73briksg/654x480_2680101_1_f.m3u8?i=513_2260
 #EXTINF:-1 tvg-id="StarzKidsFamily.us@East" tvg-logo="https://i.imgur.com/eE9FzEP.png" group-title="English Kids",Starz Kids & Family (1080p)
 http://23.237.104.106:8080/USA_STARZ_FAMILY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SuperSimpleSongs.us@SD" tvg-logo="https://i.imgur.com/3k4F7O9.png" group-title="English Kids",Super Simple Songs (1080p)
 https://janson-supersimplesongs-1-us.roku.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-id="TeenNick.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" group-title="English Kids",TeenNick [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" group-title="English Kids",TeenNick (576p)
+http://tvsen7.aynascope.net/teennick/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk@SD" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="English Kids",Teletubbies (720p)
 https://dv8lsrd8fecw9.cloudfront.net/5.m3u8
 #EXTINF:-1 tvg-id="LegoChannel.us@SD" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="English Kids",The LEGO Channel (1080p)
 https://dltiqboxjw21d.cloudfront.net/index/1.m3u8
 #EXTINF:-1 tvg-id="TinyPop.uk@SD" tvg-logo="https://i.imgur.com/zCTf71x.png" group-title="English Kids",Tiny Pop (1080p)
-https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/cb543d1a7e6c648d98d43e66d2ef45a0f93d1fde1d6988693eb5518975d30b5ed1bff990e44ebe7555ca1d8a7c0b6c075c7a991adc791cc48f73fb59302f45209f9eb5196ca828218a2dd0bd1b934b3463807207eb5b0666d1ec08048433b16a7762826b4b63424139949f5c64b0c548d43f7ca18de5e29ce56b7da62a1fbafe07fda8b40357fc5420148479b71d3285a87bbe9643e5d98a0ccb1d9c40cb209495f28ad106bab7b048b6baa652f072020429a4c1035d77ccfad0191c896327561b1ac7ae80ea4b2e82464e668995a0926ae51ac28524ce3579eb72f835e43ae93aff5b47809d086b0fb9b3eb1fa0aa278e2a40709efc5d80ffb5/152/1920x1080_5903040/index.m3u8
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/cb543d19796c678f9ad43e62d9ef45a5f93d1fde1d6988693eb5518975d30b5984eaf6c2bc4fea7555c9188a7c0b6c075c7a9a11d6791c928f28ae04337c12729acce319b8a33131247d871b0a82502c279c1c23a667027cdaec6879ef5f904c75df6c940c2c54a8a81bf23607efb010bb7d3ab375ea40a7fb08107600259589b7aeb689c5c0ea1cbb8d690dd77005b29d22989645f8eaf561a53ed93ca848c1c3ef8ecd10a0b6bb53f364b3615bb84386574fcdf5c78e49bf5663eb02cadfde2df17fca7b/152/1920x1080_5903040/index.m3u8
 #EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="English Kids",Tom And Jerry (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TGJunior.us@SD" tvg-logo="https://i.imgur.com/aqane40.png" group-title="English Kids",Toon Goggles Junior (720p)
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us_720.m3u8
 #EXTINF:-1 tvg-id="ToonamiAftermath.us@East" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="English Kids",Toonami Aftermath East (480p)
-http://asp6.toonamiaftermath.com:1934/livehttporigin/est/EK1awF-euM0BN-chunklist.m3u8
+http://asp6.toonamiaftermath.com:1934/livehttporigin/est/WMspsz-XkpMkH-chunklist.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="English Kids",ToonGoggles (720p)
-https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/ts-eu-w1-n2/playlist/amg01329-otterainc-toongoggles-samsungau/cb543d1a7e6c648d98d43e66d2ef45a0f93d1fde1d6988693eb5518975d30b5ed0bff096ec1abc7555ca1d8a7c0b6c075c7a9a48887e1ccfdc29a80237784270ce9cba196ca828218a2dd0bd1b934b3463807207eb5b0666d1ec08048433b16a7762826b4b63424139949f5c64b0c548d43f7ca18de5e29ce56b7da62a1fbafe07fda8b40357fc5420148479b71d3285a87bbe9643e5d98a0ccb1d9c40cb209495f28ad106bab7b048b6baa652f072020429a4c1035d77ccfad0191c896327561b1ac7ae80ea4b2e82464e668995a0926ae51ac28524ce3579eb72f835e43ae839f2e9c634e66619ddf3dd009f2f6137a781842ce12e640696/28/1280x720_3071200/index.m3u8
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/ts-eu-w1-n2/playlist/amg01329-otterainc-toongoggles-samsungau/cb543d19796c678f9ad43e62d9ef45a5f93d1fde1d6988693eb5518975d30b5987eaf2c0bb49eb7555c9188a7c0b6c075c7a9a1ada791c918f2eac03337c4220939de619b8a33131247d871b0a82502c279c1c23a667027cdaec6879ef5f904c75df6c940c2c54a8a81bf23607efb010bb7d3ab375ea40a7fb08107600259589b7aeb689c5c0ea1cbb8d690dd77005b29d22989645f8eaf561a53ed93ca848c1c3ef8ecd10a0b6bb53f366b1d468a5ecb22de6287110963f197c7a6b92146a76820348/3/1280x720_3071200/index.m3u8
 #EXTINF:-1 tvg-id="TVCARiBKidsTeens.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="English Kids",TVCARiB Kids & Teens (720p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/mono.m3u8
 #EXTINF:-1 tvg-id="TVOKids.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png" group-title="English Kids",TVOKids (720p)
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/chunklist_hls720p.m3u8
 #EXTINF:-1 tvg-id="TVSHiTops.us@SD" tvg-logo="https://i.imgur.com/RiWg1IA.png" group-title="English Kids",TVS Hi Tops (720p)
-https://rpn.bozztv.com/gusa/gusa-hitops/tracks-v1a1/mono.m3u8?nimblesessionid=1777418906
+https://rpn.bozztv.com/gusa/gusa-hitops/tracks-v1a1/mono.m3u8?nimblesessionid=1781075554
 #EXTINF:-1 tvg-id="WatchitKID.us@SD" tvg-logo="https://i.imgur.com/YNx0j1b.png" group-title="English Kids",Watch it KID! (720p)
-https://stream-us-east-1.getpublica.com/cl/260822da4q8pp55qes73boiifg/1280x720_2885726_1_f.m3u8?i=513_2245
+https://stream-us-east-1.getpublica.com/cl/260824da5tejv80kos73fk0rk0/1280x720_2885726_1_f.m3u8?i=513_2245
 #EXTINF:-1 tvg-id="YuGiOh.us@SD" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="English Kids",Yu-Gi-Oh! (1080p)
-https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/cb543d1a7e6c648d98d43e66d2ef45a0f93d1fde1d6988693eb5518975d30b0884edf996bc49bb7555ca1d8a7c0b6c075c7a9a48d87f1cc48b73fd56602e12759e99e0196ca828218a2dd0bd1b934b3463807207eb5b0666d1ec08048433b16a7762826b4b63424139949f5c64b0c548d43f7ca18de5e29ce56b7da62a1fbafe07fda8b40357fc5420148479b71d3285a87bbe9643e5d98a0ccb1d9c40cb209495f28ad106bab7b048b6baa652f072020429a4c1035d77ccfad0191c896327561b1ac7ae80ea4b2e82464e668995a0926ae51ac28524ce3579eb72f835e43ae838fae9c671e66619ddedc028c8aeb8fc5638a8ce2743a44f0d/30/1920x1080_6046040/index.m3u8
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/cb543d19796c678f9ad43e62d9ef45a5f93d1fde1d6988693eb5518975d30b5b83b5a792ee18bd7555c9188a7c0b6c075c7a99108a741cc38f2cae5567751f709f9eb119b8a33131247d871b0a82502c279c1c23a667027cdaec6879ef5f904c75df6c940c2c54a8a81bf23607efb010bb7d3ab375ea40a7fb08107600259589b7aeb689c5c0ea1cbb8d690dd77005b29d22989645f8eaf561a53ed93ca848c1c3ef8ecd10a0b6bb53f365b561e9399bb356341f64350c5a198c0addbfb6a6570296761c/75/1920x1080_6046040/index.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="English Kids",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Deutsch Kinder",BabyFirst (720p)
@@ -156,4 +150,4 @@ https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master-1080p-5000.m
 #EXTINF:-1 tvg-id="Nickelodeon.de@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Deutsch Kinder",Nickelodeon
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="RiC.de@SD" tvg-logo="https://i.imgur.com/4wMZ8Em.png" group-title="Deutsch Kinder",RiC (1080p)
-https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8?nimblesessionid=540935403
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8?nimblesessionid=542067119

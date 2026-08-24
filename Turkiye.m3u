@@ -7,28 +7,32 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Haber",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_1080p.m3u8
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Spor",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Genel",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+#EXTINF:-1 tvg-id="A2TV.tr@SD" group-title="Genel",A2TV (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-id="AdaTV.cy@SD" tvg-logo="https://i.imgur.com/YWmkUWU.png" group-title="Genel",Ada TV
-https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w2141871676.m3u8
+https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w1439031451.m3u8
 #EXTINF:-1 tvg-id="AfroturkTV.tr@SD" group-title="Genel",Afroturk TV (1080p)
-https://edge1.taksimbilisim.com:443/naturaltv/bant1/chunks.m3u8?nimblesessionid=1675907468
+https://edge1.taksimbilisim.com:443/naturaltv/bant1/chunks.m3u8?nimblesessionid=1680203292
 #EXTINF:-1 tvg-id="AksuTV.tr@SD" group-title="Yerel",Aksu TV (720p)
-https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8?nimblesessionid=3763173348
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8?nimblesessionid=3777435078
 #EXTINF:-1 tvg-id="AlZahraTVTurkic.tr@SD" group-title="Genel",Al-Zahra TV Turkic (720p) [Not 24/7]
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="AlanyaPostaTV.tr@SD" group-title="Yerel",Alanya Posta TV (1080p)
-https://api-tv3.yayin.com.tr/postatv/postatv/chunklist_w726800923.m3u8
+https://api-tv3.yayin.com.tr/postatv/postatv/chunklist_w827565597.m3u8
 #EXTINF:-1 tvg-id="AlmahriahTV.tr@SD" group-title="Genel",Almahriah TV (576p)
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-id="AltasTV.tr@SD" group-title="Yerel",Altas TV (1080p)
-https://edge1.taksimbilisim.com:443/altastv/bant1/chunks.m3u8?nimblesessionid=1675907625
+https://edge1.taksimbilisim.com:443/altastv/bant1/chunks.m3u8?nimblesessionid=1680203455
 #EXTINF:-1 tvg-id="AnadoluNetTV.tr@SD" group-title="Genel",Anadolu Net TV (1080p)
-https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8?nimblesessionid=3763174037
-#EXTINF:-1 tvg-id="ArasTV.tr@SD" group-title="Genel",ARAS TV (576p) [Not 24/7]
-http://1.rtmp.org/tv217/yayin.stream/chunklist_w1781194348.m3u8
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Genel",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8?nimblesessionid=3777435777
+#EXTINF:-1 tvg-id="ATV.tr@SD" group-title="Genel",ATV (360p)
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1 tvg-id="ATVAlanya.tr@SD" group-title="Yerel",ATV Alanya (1080p)
-https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/chunklist_w112572390.m3u8
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/chunklist_w2131095648.m3u8
 #EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png" group-title="Genel",Azerbaijan Gharbi
 https://ncdn.telewebion.ir/azarbayjangharbi/live/576p/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Genel",BabyFirst (720p)
@@ -36,27 +40,27 @@ https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest/4.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr@SD" group-title="Genel",BENGÜTÜRK TV (720p) [Not 24/7]
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 tvg-id="BirTV.tr@SD" group-title="Genel",Bir TV (720p)
-https://edge1.taksimbilisim.com:443/birtv/bant1/chunks.m3u8?nimblesessionid=1675908527
+https://edge2.taksimbilisim.com:443/birtv/bant1/chunks.m3u8?nimblesessionid=447926310
 #EXTINF:-1 tvg-id="BloombergHT.tr@SD" group-title="Haber",Bloomberg HT (720p) [Not 24/7]
 https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 tvg-id="BRTV.tr@SD" group-title="Genel",BRTV (720p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8?nimblesessionid=3763177727
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8?nimblesessionid=3777438809
 #EXTINF:-1 tvg-id="ASTV.tr@SD" group-title="Yerel",Bursa AS TV (900p)
-https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8?nimblesessionid=3763177872
+https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8?nimblesessionid=3777438948
 #EXTINF:-1 tvg-id="CayTV.tr@SD" group-title="Yerel",Cay TV (720p)
-https://edge1.taksimbilisim.com:443/caytv/bant1/chunks.m3u8?nimblesessionid=1675909006
+https://edge1.taksimbilisim.com:443/caytv/bant1/chunks.m3u8?nimblesessionid=1680204756
 #EXTINF:-1 tvg-id="CiftciTV.tr@SD" group-title="Genel",Çiftçi TV (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8?nimblesessionid=3763180058
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8?nimblesessionid=3777440773
 #EXTINF:-1 tvg-id="CNBCe.tr@SD" group-title="Haber",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e_1080p.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr@SD" group-title="Genel",Deniz Postası TV (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8?nimblesessionid=3763182223
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8?nimblesessionid=3777442774
 #EXTINF:-1 tvg-id="DHA.tr@SD" group-title="Genel",DHA (720p) [Not 24/7]
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w1896477883.m3u8
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w16341147.m3u8
 #EXTINF:-1 tvg-id="DiyanetTV.tr@SD" group-title="Genel",Diyanet TV (1080p)
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_0.m3u8
 #EXTINF:-1 tvg-id="DiyarTV.tr@SD" group-title="Yerel",Diyar TV (720p)
-https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8?nimblesessionid=3763182568
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8?nimblesessionid=3777443164
 #EXTINF:-1 tvg-id="DostTV.tr@SD" group-title="Genel",Dost TV (576p)
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1 tvg-id="DreamTurk.tr@SD" group-title="Genel",Dream Türk (720p)
@@ -66,89 +70,85 @@ https://canli.edessatv.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="ElsharqTV.tr@SD" tvg-logo="https://i.imgur.com/8vmfZb5.png" group-title="Genel",Elsharq TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="ERTV.tr@SD" group-title="Genel",Er TV (1080p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8?nimblesessionid=3763183981
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8?nimblesessionid=3777444536
 #EXTINF:-1 tvg-id="ErzurumWebTV.tr@SD" group-title="Yerel",Erzurum Web TV (720p)
-https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/chunklist_w1675841142.m3u8
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/chunklist_w877307799.m3u8
 #EXTINF:-1 tvg-id="ESTV.tr@SD" group-title="Genel",ES TV (720p)
-https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8?nimblesessionid=3763184053
+https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8?nimblesessionid=3777444564
 #EXTINF:-1 tvg-id="ETVKayseri.tr@SD" group-title="Yerel",ETV Kayseri (720p)
-https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8?nimblesessionid=3763184356
-#EXTINF:-1 tvg-id="ETVManisa.tr@SD" group-title="Yerel",ETV Manisa (1080p) [Not 24/7]
-https://edge2.taksimbilisim.com:443/manisaetv/bant1/chunks.m3u8?nimblesessionid=446266863
+https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8?nimblesessionid=3777444775
 #EXTINF:-1 tvg-id="EuroD.tr@SD" group-title="Genel",Euro D (720p)
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr@SD" group-title="Genel",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmBox.nl@Netherlands" tvg-logo="https://i.imgur.com/VyaslIY.png" group-title="Genel",FilmBox
-http://46.149.191.219:9100/play/a015
 #EXTINF:-1 tvg-id="FinansTurkTV.tr@SD" group-title="Genel",Finans Turk TV (720p)
-https://yayin30.haber100.com/live/finansturk/chunklist_w81164850.m3u8
+https://yayin30.haber100.com/live/finansturk/chunklist_w1887030129.m3u8
+#EXTINF:-1 tvg-id="FortunaTV.tr@SD" group-title="Genel",Fortuna TV (720p)
+https://edge1.taksimbilisim.com:443/ftvturk/bant1/chunks.m3u8?nimblesessionid=1680206394
 #EXTINF:-1 tvg-id="GuneydoguTV.tr@SD" group-title="Genel",Guneydogu TV (720p)
-https://edge2.taksimbilisim.com:443/gtv/bant1/chunks.m3u8?nimblesessionid=446267103
+https://edge1.taksimbilisim.com:443/gtv/bant1/chunks.m3u8?nimblesessionid=1680206760
 #EXTINF:-1 tvg-id="GZT.tr@SD" group-title="Genel",GZT (1080p)
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr@SD" group-title="Haber",Haber Global (720p) [Not 24/7]
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 #EXTINF:-1 tvg-id="Haber61TV.tr@SD" group-title="Haber",Haber61 TV (720p) [Not 24/7]
-https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/tracks-v1a1/mono.m3u8
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr@SD" group-title="Haber",Habertürk TV (720p) [Not 24/7]
 https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Genel",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="HTSporTV.tr@SD" group-title="Spor",HTSpor TV (1080p)
-https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=8orpw01kfp4j&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
+https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=8oxo4u2k72yr&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
 #EXTINF:-1 tvg-id="HunatTV.tr@SD" group-title="Yerel",Hunat TV (720p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8?nimblesessionid=3763187769
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8?nimblesessionid=3777447958
 #EXTINF:-1 tvg-id="IcelTV.tr@SD" group-title="Genel",Icel TV (720p) [Not 24/7]
-https://edge2.taksimbilisim.com:443/iceltv/bant1/chunks.m3u8?nimblesessionid=446267221
+https://edge1.taksimbilisim.com:443/iceltv/bant1/chunks.m3u8?nimblesessionid=1680207113
 #EXTINF:-1 tvg-id="IlkeTV.tr@HD" group-title="Genel",Ilke TV (1080p)
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV5.iq@SD" tvg-logo="https://i.imgur.com/Oq2Ve7C.png" group-title="Genel",Imam Hussein TV 5 (720p)
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Kanal12.tr@SD" group-title="Yerel",Kanal 12 (720p)
-https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8?nimblesessionid=3763189480
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8?nimblesessionid=3777449734
 #EXTINF:-1 tvg-id="Kanal15.tr@SD" group-title="Yerel",Kanal 15 (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/chunks.m3u8?nimblesessionid=3763189506
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/chunks.m3u8?nimblesessionid=3777449731
 #EXTINF:-1 tvg-id="Kanal23.tr@SD" group-title="Genel",Kanal 23 (1080p)
 https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kanal26.tr@SD" group-title="Yerel",Kanal 26 (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8?nimblesessionid=3763189555
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8?nimblesessionid=3777449732
 #EXTINF:-1 tvg-id="Kanal3.tr@SD" group-title="Yerel",Kanal 3 (1080p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8?nimblesessionid=3763189482
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8?nimblesessionid=3777449694
 #EXTINF:-1 tvg-id="Kanal32.tr@SD" group-title="Yerel",Kanal 32 (720p) [Not 24/7]
-https://edge1.taksimbilisim.com:443/kanal32/bant1/chunks.m3u8?nimblesessionid=1675911740
-#EXTINF:-1 tvg-id="Kanal33.tr@SD" group-title="Yerel",Kanal 33 (720p) [Not 24/7]
-https://edge1.taksimbilisim.com:443/kanal33/bant1/chunks.m3u8?nimblesessionid=1675911741
+https://edge1.taksimbilisim.com:443/kanal32/bant1/chunks.m3u8?nimblesessionid=1680207541
 #EXTINF:-1 tvg-id="Kanal58.tr@SD" group-title="Genel",KANAL 58 (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8?nimblesessionid=3763189625
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8?nimblesessionid=3777449743
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr@SD" group-title="Genel",Kanal 7 Avrupa (720p) [Not 24/7]
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Genel",Kanal D
-https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8orpwwnl51bo&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8oxo5ucg9op4&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 tvg-id="KanalDDrama.tr@SD" group-title="Genel",Kanal D Drama (1080p)
-https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/ts-eu-w1-n2/playlist/amg01602-themahqfrance-vivekanald-samsungspain/cb543d1a7e6c648d98d43e66d2ef45a0f93d1fde1d6988693eb5518975d30b0b84efa3cbef4eed7555ca1cdf7c0b6c075c7a9a4cdd2a1cc38f7eaa50627a4272cc9aba196ca828218a2dd0bd1b934b3463807207eb5b0666d1ec08048433b16a7762826b4b63424139949f5c64b0c548d43f7ca18de5e29ce56b7da62a1fbafe07fda8b40357fc5420148479b71d3285a87bbe9643e5d98a0ccb1d9c40cb209495f28ad106bab7b048b6baa652f072020429a4c1035d77ccfad0191c896327561b1ac7ae80ea4b2e82464e668995a0926ae51ac28524ce3579eb72f835e43ae93af95d4780ef166b0fb99ca4d732f36114f764700336c3434478/134/1920x1080_6046040/index.m3u8
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/ts-eu-w1-n2/playlist/amg01602-themahqfrance-vivekanald-samsungspain/cb543d19796c678f9ad43e62d9ef45a5f93d1fde1d6988693eb5518975d30b5a81bfa4c6ef42ed7555c917df7c0b6c075c7ac31e8a791cc78b73fe51357846229acae719b8a33131247d871b0a82502c279c1c23a667027cdaec6879ef5f904c75df6c940c2c54a8a81bf23607efb010bb7d3ab375ea40a7fb08107600259589b7aeb689c5c0ea1cbb8d690dd77005b29d22989645f8eaf561a53ed93ca848c1c3ef8ecd10a0b6bb53f365b46de939e4a156341f019acd141d8923970714f530e9af3896/69/1920x1080_6046040/index.m3u8
 #EXTINF:-1 tvg-id="KanalFirat.tr@SD" group-title="Genel",Kanal Firat (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8?nimblesessionid=3763189624
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8?nimblesessionid=3777449769
 #EXTINF:-1 tvg-id="KanalHayat.tr@SD" group-title="Genel",Kanal Hayat (1080p)
-https://tbn02a.ltnschedule.com/hls/internal-ve-hls-pull-tgt-8871b930-50b5-47de-93a5-e589b1a95e6f/index.m3u8
+https://tbn02a.ltnschedule.com/hls/internal-ve-hls-pull-tgt-f0c5b4c0-4bc9-44e6-8dca-086b87c030d4/index.m3u8
 #EXTINF:-1 tvg-id="KanalV.tr@SD" group-title="Genel",Kanal V (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8?nimblesessionid=3763189680
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8?nimblesessionid=3777449810
 #EXTINF:-1 tvg-id="KayTV.tr@SD" group-title="Genel",Kay TV (576p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8?nimblesessionid=3763189764
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8?nimblesessionid=3777449921
 #EXTINF:-1 tvg-id="KentTurk.tr@SD" group-title="Genel",Kent Türk TV (1080p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8?nimblesessionid=3763189840
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8?nimblesessionid=3777449983
 #EXTINF:-1 tvg-id="KNMusicTV.az@SD" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" group-title="Genel",KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KocaeliTV.tr@SD" group-title="Genel",Kocaeli TV (1080p)
-https://edge2.taksimbilisim.com:443/kocaelitv/bant1/chunks.m3u8?nimblesessionid=446267422
+https://edge1.taksimbilisim.com:443/kocaelitv/bant1/chunks.m3u8?nimblesessionid=1680207683
 #EXTINF:-1 tvg-id="KonyaOlayTV.tr@SD" group-title="Genel",Konya Olay TV (720p)
-https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8?nimblesessionid=3763190186
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8?nimblesessionid=3777450309
 #EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="Genel",Kurdistan TV (720p) [Not 24/7]
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w2088160834_b1700000_sleng_t64MTA4MHA=.m3u8
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1824329286_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="LalegulTV.tr@SD" group-title="Genel",Lalegul TV (1080p)
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="LifeTV.tr@SD" group-title="Genel",Life TV (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8?nimblesessionid=3763191105
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8?nimblesessionid=3777451186
 #EXTINF:-1 tvg-id="TV100.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Genel",TV 100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8
@@ -156,7 +156,7 @@ https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.29/live/bbc_first/index.m3u8
 #EXTINF:-1 tvg-id="LineTV.tr@SD" group-title="Genel",Line TV (720p) [Not 24/7]
-https://edge1.taksimbilisim.com:443/linetv/bant1/chunks.m3u8?nimblesessionid=1675912159
+https://edge2.taksimbilisim.com:443/linetv/bant1/chunks.m3u8?nimblesessionid=447927654
 #EXTINF:-1 tvg-id="LoveNature.ca@SD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Genel",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="LuysTV.tr@SD" group-title="Genel",Luys TV (1080p)
@@ -164,9 +164,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91
 #EXTINF:-1 tvg-id="ManasTV.kg@SD" tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" group-title="Genel",Manas TV (1080p)
 http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 tvg-id="MaviKaradenizTV.tr@SD" group-title="Genel",MaviKaradeniz (1080p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8?nimblesessionid=3763192311
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8?nimblesessionid=3777452211
 #EXTINF:-1 tvg-id="MCTV.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png" group-title="Genel",MC TV (720p)
-https://n1.cdn.jetstre.am/session/bc2624a3289482fee7e0718fff3ff44a/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
+https://n1.cdn.jetstre.am/session/3d9a559b0cce9399474c6d72983b6973/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
 #EXTINF:-1 tvg-id="MedMuzik.tr@SD" group-title="Müzik",Med Muzik (1080p)
 http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-id="MekameleenTV.tr@SD" group-title="Genel",Mekameleen TV (1080p)
@@ -174,19 +174,23 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b3128000.m3u
 #EXTINF:-1 tvg-id="MeltemTV.tr@SD" group-title="Genel",Meltem TV (1080p)
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="MercanTV.tr@SD" group-title="Genel",Mercan TV (576p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8?nimblesessionid=3763192892
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8?nimblesessionid=3777452657
 #EXTINF:-1 tvg-id="MinikaCocuk.tr@SD" group-title="Çocuk",Minika Cocuk (720p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr@SD" group-title="Çocuk",Minika Go (720p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-id="MTurkTV.tr@SD" group-title="Genel",MTürk TV (1080p)
-https://edge2.taksimbilisim.com:443/muglaturk/bant1/chunks.m3u8?nimblesessionid=446267808
+https://edge2.taksimbilisim.com:443/muglaturk/bant1/chunks.m3u8?nimblesessionid=447927895
 #EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Genel",MyZen TV (1080p)
-https://amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv/ts-us-e2-n1/playlist/amg01255-secomcofites-my-myzen-en-plex/cb543d1a7e6c648d98d43e66d2ef45a0f93d1fde1d6988693eb5518975d30b5bd6b8f3c5bb1aba7555ca1d8a7c0b6c075c7ac318887c1cced87ffc04372f132099cae4196ca828218a2dd0bd1b934b3463807207eb5b0666d1ec08048433b16a7762826b4b63424139949f5c64b0c548d43f7ca18de5e29ce56b7da62a1fbafe07fda8b40357fc5420148479b71d3285a87bbe9643e5d98a0ccb1d9c40cb209495f28ad106bab7b048b6baa652f072020429a4c1035d77ccfad0191c896327561b1ac7ae80ea4b2e82464e668995a0926ae51ac28524ce3579eb72f835e43ae93af359478085076b0fb9c37c54405927f8e456821e1c143665db/190/1920x1080_4716800/index.m3u8
+https://amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv/ts-us-e2-n1/playlist/amg01255-secomcofites-my-myzen-en-plex/cb543d19796c678f9ad43e62d9ef45a5f93d1fde1d6988693eb5518975d30b0b84bef990e948b97555c9188d7c0b6c075c7a9948da781cc78b2cfa583c7a1627929be619b8a33131247d871b0a82502c279c1c23a667027cdaec6879ef5f904c75df6c940c2c54a8a81bf23607efb010bb7d3ab375ea40a7fb08107600259589b7aeb689c5c0ea1cbb8d690dd77005b29d22989645f8eaf561a53ed93ca848c1c3ef8ecd10a0b6bb53f364b3605eb84389544fcdf5188d06c8d47f136da5dd2a582904c2dc/147/1920x1080_4716800/index.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr@SD" group-title="Genel",Natural TV (720p) [Not 24/7]
-https://edge2.taksimbilisim.com:443/naturaltv/bant1/chunks.m3u8?nimblesessionid=446289762
+https://edge2.taksimbilisim.com:443/naturaltv/bant1/chunks.m3u8?nimblesessionid=447948544
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Genel",NOW
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+#EXTINF:-1 tvg-id="NOWTV.tr@SD" group-title="Genel",NOW TV (720p)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="NTV.tr@SD" group-title="Haber",NTV
-https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?&sid=8orpzx5y2z1g&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=2
+https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?&sid=8oxo8uqaimdf&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=2
 #EXTINF:-1 tvg-id="Number1Ask.tr@SD" group-title="Genel",Number 1 Ask (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="Number1Damar.tr@SD" group-title="Genel",Number 1 Damar (720p)
@@ -196,25 +200,25 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 #EXTINF:-1 tvg-id="Number1TV.tr@SD" group-title="Genel",Number 1 TV (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-id="OlayTurkTV.tr@SD" group-title="Yerel",Olay Türk TV Kayseri (720p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8?nimblesessionid=3763196420
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8?nimblesessionid=3777455841
 #EXTINF:-1 tvg-id="PersianaTurkiye.fr@SD" tvg-logo="" group-title="Genel",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PowerDance.tr@SD" group-title="Müzik",Power Dance (1080p)
-https://livetv.powerapp.com.tr/dance/dance.smil/chunks.m3u8?nimblesessionid=875995870
+https://livetv.powerapp.com.tr/dance/dance.smil/chunks.m3u8?nimblesessionid=881233784
 #EXTINF:-1 tvg-id="PowerLove.tr@SD" group-title="Müzik",Power Love (1080p)
-https://livetv.powerapp.com.tr/plove/love.smil/chunks.m3u8?nimblesessionid=875995862
+https://livetv.powerapp.com.tr/plove/love.smil/chunks.m3u8?nimblesessionid=881233783
 #EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" group-title="Müzik",Power Turk (1080p) [Not 24/7]
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b7596000_sltur.m3u8?nimblesessionid=875995868
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b7596000_sltur.m3u8?nimblesessionid=881233797
 #EXTINF:-1 tvg-id="PowerTurkAkustik.tr@SD" group-title="Müzik",Power Türk Akustik (1080p)
-https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/chunks.m3u8?nimblesessionid=875995867
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/chunks.m3u8?nimblesessionid=881233793
 #EXTINF:-1 tvg-id="PowerTurkSlow.tr@SD" group-title="Müzik",Power Türk Slow (1080p)
-https://livetv.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8?nimblesessionid=875995863
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8?nimblesessionid=881233792
 #EXTINF:-1 tvg-id="PowerTurkTaptaze.tr@SD" group-title="Müzik",Power Türk Taptaze (1080p)
-https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/chunks.m3u8?nimblesessionid=875995869
-#EXTINF:-1 tvg-id="PowerTV.tr@SD" group-title="Müzik",Power TV (1080p)
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b7596000_sltur.m3u8?nimblesessionid=875995866
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/chunks.m3u8?nimblesessionid=881233794
+#EXTINF:-1 tvg-id="PowerTV.tr@SD" group-title="Müzik",Power TV (720p)
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/chunks.m3u8?nimblesessionid=3777647282
 #EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" group-title="Müzik",PowerTürk TV (720p)
-https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/chunks.m3u8?nimblesessionid=3763407888
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/chunks.m3u8?nimblesessionid=3777647350
 #EXTINF:-1 tvg-id="Sat7Turk.cy@SD" group-title="Genel",Sat7 Türk (1080p)
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_source/chunks.m3u8
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr@SD" group-title="Genel",Satranç TV (480p) [Not 24/7]
@@ -228,21 +232,21 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-2
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca@SD" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Genel",Stingray Naturescape (1080p)
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/5711200/manifest.m3u8
 #EXTINF:-1 tvg-id="SunRTV.tr@SD" group-title="Genel",Sun RTV (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8?nimblesessionid=3763206817
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8?nimblesessionid=3777465142
 #EXTINF:-1 tvg-id="TBMMTV.tr@SD" group-title="Genel",TBMM TV (720p)
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8?e=&st=
 #EXTINF:-1 tvg-id="Tele1.tr@SD" group-title="Genel",Tele 1 (1080p)
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1 tvg-id="TempoTV.tr@SD" group-title="Genel",Tempo TV (720p)
-https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8?nimblesessionid=3763208924
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8?nimblesessionid=3777467084
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Haber",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="Tivi6.tr@SD" group-title="Genel",Tivi 6 (720p)
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8?nimblesessionid=3763209822
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8?nimblesessionid=3777467921
 #EXTINF:-1 tvg-id="TJKTV.tr@SD" group-title="Spor",TJK TV (1080p)
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-id="TonTV.tr@SD" group-title="Genel",Ton TV (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8?nimblesessionid=3763209947
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8?nimblesessionid=3777468071
 #EXTINF:-1 tvg-id="24TV.tr@SD" group-title="Genel",TR24 TV (720p) [Not 24/7]
 https://tv.ensonhaber.com/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Genel",TRT 1
@@ -268,9 +272,9 @@ https://tv-trtturk.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr@SD" group-title="Genel",TRT World (1080p) [Not 24/7]
 https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-id="TurkHaberTV.tr@SD" group-title="Haber",TürkHaber (720p)
-https://edge1.taksimbilisim.com:443/turkhaber/bant1/chunks.m3u8?nimblesessionid=1675917300
+https://edge2.taksimbilisim.com:443/turkhaber/bant1/chunks.m3u8?nimblesessionid=447929446
 #EXTINF:-1 tvg-id="TV1.tr@SD" group-title="Genel",TV 1 (720p)
-https://edge2.taksimbilisim.com:443/tv1/bant1/chunks.m3u8?nimblesessionid=446269454
+https://edge2.taksimbilisim.com:443/tv1/bant1/chunks.m3u8?nimblesessionid=447929456
 #EXTINF:-1 tvg-id="TV100.tr@SD" group-title="Genel",TV 100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8
@@ -279,11 +283,11 @@ https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-id="TV264.tr@SD" group-title="Genel",TV 264 (1080p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/mt_0.m3u8
 #EXTINF:-1 tvg-id="TV41.tr@SD" group-title="Genel",TV 41 (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8?nimblesessionid=3763407847
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8?nimblesessionid=3777647348
 #EXTINF:-1 tvg-id="TV52.tr@SD" group-title="Genel",TV 52 (720p) [Not 24/7]
-https://edge1.taksimbilisim.com:443/tv52/bant1/chunks.m3u8?nimblesessionid=1675917406
+https://edge1.taksimbilisim.com:443/tv52/bant1/chunks.m3u8?nimblesessionid=1680213054
 #EXTINF:-1 tvg-id="TV8.tr@SD" group-title="Genel",TV 8 (1080p)
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8orq7064npkv&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8oxofxy64xy1&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="TVDen.tr@SD" group-title="Genel",TV Den (576p) [Not 24/7]
 http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-id="TV4.tr@SD" group-title="Genel",TV4 (720p)
@@ -291,9 +295,9 @@ https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr@SD" group-title="Genel",TVNET (1080p)
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-id="UrfaNatikTV.tr@SD" group-title="Genel",Urfa Natik TV (720p)
-https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8?nimblesessionid=3763214059
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8?nimblesessionid=3777471781
 #EXTINF:-1 tvg-id="Van65TV.tr@SD" group-title="Genel",Van 65 TV
-https://live.artidijitalmedya.com/artidijital_van65/van65/chunks.m3u8?nimblesessionid=3763214157
+https://live.artidijitalmedya.com/artidijital_van65/van65/chunks.m3u8?nimblesessionid=3777471852
 #EXTINF:-1 tvg-id="VavTV.tr@SD" group-title="Genel",Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="YOLTV.de@SD" tvg-logo="https://i.imgur.com/rTBX6lS.png" group-title="Genel",YOL TV

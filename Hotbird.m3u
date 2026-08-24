@@ -10,7 +10,7 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",4Fun Kids
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",ACI Sport TV
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8?session=7ETsPyXEVcZhQm6NAYybCA
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8?session=c39RvypdF3ZMq36WmjfUJm
 #EXTINF:-1 group-title="Hotbird 13°E",Al Arabiya HD
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",AL EKhbaria HD
@@ -36,19 +36,19 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a2
 #EXTINF:-1 group-title="Hotbird 13°E",Amazing Facts
 https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS-avc1_2500000=10002.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Angel TV
-https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/chunklist_b2000000.m3u8
+https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/chunklist_b3000000.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Antena
-https://5ca9af4645e15.streamlock.net/grd/videogrd/chunklist_w1117933278.m3u8
+https://5ca9af4645e15.streamlock.net/grd/videogrd/chunklist_w1685656173.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Arirang TV HD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Arte (France)
-http://145.239.5.177/300/tracks-v1a1/mono.m3u8
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Asharq News Channel HD
 https://live-news.asharq.com/asharq_1080p30.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Bahrain TV
-https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w194549431_b1307000.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/chunklist_w1680867031_b1307000.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Bare Knuckles Fighting Championship
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/be2dc0e1-ac80-42bd-ad2a-96ff6baa2eff/5.m3u8
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/437e274e-5502-4c59-9764-b4c8608c35be/5.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",BBC Arabic HD
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 group-title="Hotbird 13°E",BBC News
@@ -58,11 +58,11 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc4976
 #EXTINF:-1 group-title="Hotbird 13°E",BeJoy.kids
 https://stream.paroledivita.org/bjy/live/stream_0.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Bloomberg Europe
-https://d8975dc3.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/d4f6deb9-e6cb-4426-989e-9b0f4252e799/0.m3u8
+https://d8975dc3.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/460e1380-3f4e-4df6-aece-50f4f2f24eda/0.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",BNT 4
 https://shift03.isp.bg/BNT4_HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Camera dei Deputati
-https://video-ar.radioradicale.it/diretta/camera2/chunklist_w460101148.m3u8
+https://video-ar.radioradicale.it/diretta/camera2/chunklist_w1927335323.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",CCTV 4
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",CGTN
@@ -80,15 +80,15 @@ https://tv.city.bg/play/tshls/citytv/1.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",CNBC Europe HD
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist1080_p.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Cricket Gold
-https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/9313b5a9-53a7-4cb9-92ca-26300177ace7/0.m3u8
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/d486993d-f67b-4140-9244-b2788712c348/0.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3273329.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",DIM TV
 https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Documentari HD
-https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/1ad114b3-2272-4da1-b8e2-9e1642d72308/0.m3u8
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/673c16b2-af94-412b-93dd-def7d2a6aaa6/0.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",DW English HD
-https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/1f66d937-bdd5-43f2-ad7d-9c73917361d2/2.m3u8
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/a789b395-e44c-4cb7-9a99-b2111878cf6d/2.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",DW Russian
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Eko-TV
@@ -101,15 +101,13 @@ https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Euronews English
 http://45.190.28.50/EURONEWS_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Euronews Italian
-https://acb6ca89.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/adc4a05b-6fa9-4df7-a78d-70d05d93d6f6/5.m3u8
+https://acb6ca89.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/aa9ac06b-42a3-42f4-bbbd-f4f2e28bb995/5.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",EWTN Europe
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/v0nfsplw/720/chunklist.m3u8
-#EXTINF:-1 group-title="Hotbird 13°E",France 24 HD (en Francais)
-http://145.239.5.177/305/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",GEB TV
 https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",GO-TV
-https://rds3.desdeparaguay.net/gotv/gotv/chunklist_w157600338.m3u8
+https://rds3.desdeparaguay.net/gotv/gotv/chunklist_w1563618750.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",GOD Europe
 https://hlsb-us.god.tv/GODTV/USA-720.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Iran International
@@ -139,19 +137,19 @@ https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Oman TV HD
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Orler TV
-https://w1.mediastreaming.it/orlertv/livestream/chunklist_w831931485.m3u8
+https://w1.mediastreaming.it/orlertv/livestream/chunklist_w1566703858.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Parole di Vita
 https://stream.paroledivita.org/pdv/live/stream_0.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Power TV (Poland)
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b7596000_sltur.m3u8?nimblesessionid=875995866
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/chunks.m3u8?nimblesessionid=3777647282
 #EXTINF:-1 group-title="Hotbird 13°E",Qatar TV HD
 http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Radio Freccia HD
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/chunklist_b3256000.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Radio Italia Trend TV HD
-https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/ts-us-e2-n1/playlist/rakutenAA-radioitalia-rakuten/cb543d1a7e6c648d98d43e66d2ef45a0f93d1fde1d6988693eb5518975d30b5dd0b8a7c0ef1fb97555ca1d8a7c0b6c075c7a991ada7b1cc7d87faf0337744477cb9bb0196ca828218a2dd0bd1b934b3463807207eb5b0666d1ec08048433b16a7762826b4b63424139949f5c64b0c548d43f7ca18de5e29ce56b7da62a1fbafe07fda8b40357fc5420148479b71d3285a87bbe9643e5d98a0ccb1d9c40cb209495f28ad106bab7b048b6baa652f072020429a4c1035d77ccfad0191c896327561b1ac7ae80ea4b2e82464e668995a0926ae51ac28524ce3579eb72f835e43ae93afd514780ca076b0fb9c90add91fa287c73afba919f7ef000d4/178/1280x720_3572800/index.m3u8
+https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/ts-us-e2-n1/playlist/rakutenAA-radioitalia-rakuten/cb543d19796c678f9ad43e62d9ef45a5f93d1fde1d6988693eb5518975d30b0d87b4a2c5ef18ed7555c9188d7c0b6c075c7ac3488f781cc48f79fa513079117d9b90e019b8a33131247d871b0a82502c279c1c23a667027cdaec6879ef5f904c75df6c940c2c54a8a81bf23607efb010bb7d3ab375ea40a7fb08107600259589b7aeb689c5c0ea1cbb8d690dd77005b29d22989645f8eaf561a53ed93ca848c1c3ef8ecd10a0b6bb53f364b36158b843d1544fcdf55720e8c52e32837c501a3294071b515d/151/1280x720_3572800/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Radio Italia TV
-https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/ts-us-e2-n1/playlist/rakutenAA-radioitalia-rakuten/cb543d1a7e6c648d98d43e66d2ef45a0f93d1fde1d6988693eb5518975d30b5dd0b8a7c0ef1fb97555ca1d8a7c0b6c075c7a991ada7b1cc7d87faf0337744477cb9bb0196ca828218a2dd0bd1b934b3463807207eb5b0666d1ec08048433b16a7762826b4b63424139949f5c64b0c548d43f7ca18de5e29ce56b7da62a1fbafe07fda8b40357fc5420148479b71d3285a87bbe9643e5d98a0ccb1d9c40cb209495f28ad106bab7b048b6baa652f072020429a4c1035d77ccfad0191c896327561b1ac7ae80ea4b2e82464e668995a0926ae51ac28524ce3579eb72f835e43ae93afd514780ca076b0fb9c90add91fa287c73afba919f7ef000d4/178/1280x720_3572800/index.m3u8
+https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/ts-us-e2-n1/playlist/rakutenAA-radioitalia-rakuten/cb543d19796c678f9ad43e62d9ef45a5f93d1fde1d6988693eb5518975d30b0d87b4a2c5ef18ed7555c9188d7c0b6c075c7ac3488f781cc48f79fa513079117d9b90e019b8a33131247d871b0a82502c279c1c23a667027cdaec6879ef5f904c75df6c940c2c54a8a81bf23607efb010bb7d3ab375ea40a7fb08107600259589b7aeb689c5c0ea1cbb8d690dd77005b29d22989645f8eaf561a53ed93ca848c1c3ef8ecd10a0b6bb53f364b36158b843d1544fcdf55720e8c52e32837c501a3294071b515d/151/1280x720_3572800/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Radionorba TV
 https://live-evg7.tv360.bitel.com.pe/bitel/rumba/chunks.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Rai 1 HD
@@ -159,7 +157,7 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Rai 3 HD
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Rai News 24 HD
-https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live_1080p.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live_1080_5000k.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Rai Storia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",RDS Social TV
@@ -169,7 +167,7 @@ https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV-avc1_2500000=1
 #EXTINF:-1 group-title="Hotbird 13°E",RTL 102.5 Caliente
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/chunklist_b3256000.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",RTL 102.5 TV HD
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b3256000.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",RTP International
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Rudaw HD
@@ -197,13 +195,15 @@ https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/sudan_tv-avc1_600
 #EXTINF:-1 group-title="Hotbird 13°E",Supreme Master TV
 https://lbs-us1.suprememastertv.com/origin/720p/chunklist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",TBN Europe(Trinity Broadcasting Network)
-https://live.suricloud.com/hls/tbntv/1_2/index.m3u8?tkn=1446440426
+https://live.suricloud.com/hls/tbntv/1_2/index.m3u8?tkn=2054252400
 #EXTINF:-1 group-title="Hotbird 13°E",Tele Padre Pio
-https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1891910983.m3u8
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1481953686.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",TeleSardegna
-https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/chunklist_w1844139814.m3u8
+https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/chunklist_w1097515069.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Telesur HD
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1 group-title="Hotbird 13°E",TgCom24
+https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live_1080_5000k.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",TNT international
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",TRM Network
@@ -229,22 +229,20 @@ https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",TVP World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
-#EXTINF:-1 group-title="Hotbird 13°E",TVRUS Plus
-https://pluslive.rtrs.tv/plus/plus/chunklist_w74641224.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Uninettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/chunklist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Viasat History
-http://185.227.34.179:8080/polsat-viasat-history-hd/tracks-v3a1/mono.m3u8
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",VOA Persian HD
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Wedo BigStor
-https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsa-wedobigdocs-ono/cb543d1a7e6c648d98d43e66d2ef45a0f93d1fde1d6988693eb5518975d30b50d1baa796bf1de97555ca1d8a7c0b6c075c7ac34a8c291cc0dc2cab55652911229f98b3196ca828218a2dd0bd1b934b3463807207eb5b0666d1ec08048433b16a7762826b4b63424139949f5c64b0c548d43f7ca18de5e29ce56b7da62a1fbafe07fda8b40357fc5420148479b71d3285a87bbe9643e5d98a0ccb1d9c40cb209495f28ad106bab7b048b6baa652f072020429a4c1035d77ccfad0191c896327561b1ac7ae80ea4b2e82464e668995a0926ae51ac28524ce3579eb72f835e43ae93afd584780c7086b0fb930d2e1476de7c7acbfb3c4c656e8eac8/171/1920x1080_5288800/index.m3u8
+https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsa-wedobigdocs-ono/cb543d19796c678f9ad43e62d9ef45a5f93d1fde1d6988693eb5518975d30b5b87b8a092b94ebb7555c9188a7c0b6c075c7a994f8d2a1cc3d878ad5232294370cf99e719b8a33131247d871b0a82502c279c1c23a667027cdaec6879ef5f904c75df6c940c2c54a8a81bf23607efb010bb7d3ab375ea40a7fb08107600259589b7aeb689c5c0ea1cbb8d690dd77005b29d22989645f8eaf561a53ed93ca848c1c3ef8ecd10a0b6bb53f364b36d5ab843cf574fcdf5a803ac8f57fcb87fcb32196985583f08/193/1920x1080_5288800/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",wedo Movies
-https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/ts-eu-w1-n2/playlist/videosolu-w4freemovies-samsunguk/cb543d1a7e6c648d98d43e66d2ef45a0f93d1fde1d6988693eb5518975d30b50d1baa7c7bc1feb7555ca1d8a7c0b6c075c7ac31e8a791cc78b73fe51357846229acae7196ca828218a2dd0bd1b934b3463807207eb5b0666d1ec08048433b16a7762826b4b63424139949f5c64b0c548d43f7ca18de5e29ce56b7da62a1fbafe07fda8b40357fc5420148479b71d3285a87bbe9643e5d98a0ccb1d9c40cb209495f28ad106bab7b048b6baa652f072020429a4c1035d77ccfad0191c896327561b1ac7ae80ea4b2e82464e668995a0926ae51ac28524ce3579eb72f835e43ae833f3e9c668e66619dd880a23bc949633a971f06368acac1c12/89/1920x1080_6046040/index.m3u8
+https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/ts-eu-w1-n2/playlist/videosolu-w4freemovies-samsunguk/cb543d19796c678f9ad43e62d9ef45a5f93d1fde1d6988693eb5518975d30b5b87b8a597bb49ec7555c9188a7c0b6c075c7a9a188b7c1cc08b72fa02602d1770929cb319b8a33131247d871b0a82502c279c1c23a667027cdaec6879ef5f904c75df6c940c2c54a8a81bf23607efb010bb7d3ab375ea40a7fb08107600259589b7aeb689c5c0ea1cbb8d690dd77005b29d22989645f8eaf561a53ed93ca848c1c3ef8ecd10a0b6bb53f364b36151b843cf574fcdf5abbb1d1d300104f867aebd5e027d2cea/158/1920x1080_6046040/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Wedo Sports
-https://a-cdn.klowdtv.com/live2/echosports_720p/chunks.m3u8
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Wedotv Movies
-https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/ts-eu-w1-n2/playlist/videosolu-w4freemovies-samsunguk/cb543d1a7e6c648d98d43e66d2ef45a0f93d1fde1d6988693eb5518975d30b50d1baa7c7bc1feb7555ca1d8a7c0b6c075c7ac31e8a791cc78b73fe51357846229acae7196ca828218a2dd0bd1b934b3463807207eb5b0666d1ec08048433b16a7762826b4b63424139949f5c64b0c548d43f7ca18de5e29ce56b7da62a1fbafe07fda8b40357fc5420148479b71d3285a87bbe9643e5d98a0ccb1d9c40cb209495f28ad106bab7b048b6baa652f072020429a4c1035d77ccfad0191c896327561b1ac7ae80ea4b2e82464e668995a0926ae51ac28524ce3579eb72f835e43ae833f3e9c668e66619dd880a23bc949633a971f06368acac1c12/89/1920x1080_6046040/index.m3u8
+https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/ts-eu-w1-n2/playlist/videosolu-w4freemovies-samsunguk/cb543d19796c678f9ad43e62d9ef45a5f93d1fde1d6988693eb5518975d30b5b87b8a597bb49ec7555c9188a7c0b6c075c7a9a188b7c1cc08b72fa02602d1770929cb319b8a33131247d871b0a82502c279c1c23a667027cdaec6879ef5f904c75df6c940c2c54a8a81bf23607efb010bb7d3ab375ea40a7fb08107600259589b7aeb689c5c0ea1cbb8d690dd77005b29d22989645f8eaf561a53ed93ca848c1c3ef8ecd10a0b6bb53f364b36151b843cf574fcdf5abbb1d1d300104f867aebd5e027d2cea/158/1920x1080_6046040/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100058.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",World Poker Tour
