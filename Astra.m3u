@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Astra 19.2°E",a.tv
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+http://45.171.108.253:8888/ATV/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Al Jazeera English HD
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",ALT_Deluxe Rap
@@ -35,15 +35,13 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",CNBC Europe HD
 http://4.30.180.36:8420/cnbc/index.m3u8?token=test
 #EXTINF:-1 group-title="Astra 19.2°E",CNews HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",CNN International Europe
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Cubavision Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-#EXTINF:-1 group-title="Astra 19.2°E",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Die Neue Zeit TV
@@ -86,6 +84,8 @@ https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 group-title="Astra 19.2°E",n-tv Austria
 http://tv1.intv.mk:1935/live/intv/index.m3u8
+#EXTINF:-1 group-title="Astra 19.2°E",NDR Mecklenburg-Vorpommern HD 19h30-20h CET
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Niederbayern TV HD
 https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",One HD
@@ -100,8 +100,6 @@ https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",QVC HD Germany
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
-#EXTINF:-1 group-title="Astra 19.2°E",QVC Style HD
-https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Regio TV
 https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",RFO (Germany)
