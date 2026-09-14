@@ -5,8 +5,6 @@
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",4Fun
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 group-title="Hotbird 13°E",4Fun Kids
-https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Al Arabiya HD
@@ -76,7 +74,7 @@ https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",City TV
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",CNBC Europe HD
-http://4.30.180.36:8420/cnbc/index.m3u8?token=test
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Cricket Gold
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Deejay TV
@@ -117,6 +115,9 @@ https://arvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",KBS World HD
 #EXTVLCOPT:http-referrer=https://cinerama.uz/
 https://stream8.cinerama.uz/1448/playlist.m3u8
+#EXTINF:-1 group-title="Hotbird 13°E",KTV
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch118.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",KTV 1 HD
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Kurdistan 24 HD
@@ -180,7 +181,7 @@ https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/ind
 #EXTINF:-1 group-title="Hotbird 13°E",SonLife Broadcasting Network
 https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Sport HD
-https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+http://178.124.179.122:8080/SportTV/mpegts
 #EXTINF:-1 group-title="Hotbird 13°E",Stars.TV
 #EXTVLCOPT:http-referrer=https://stream.staratv.id/
 https://stream.staratv.id/hls/0/stream.m3u8

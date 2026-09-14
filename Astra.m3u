@@ -33,7 +33,7 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",CGTN HD
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",CNBC Europe HD
-http://4.30.180.36:8420/cnbc/index.m3u8?token=test
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",CNews HD
 https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",CNN International Europe
@@ -61,7 +61,7 @@ https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Handystar TV HD
 https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",hr-fernsehen HD
-https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",HSE Trend HD
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",HSE24 Extra HD
@@ -75,7 +75,7 @@ https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Krone TV
 https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",MTV
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",MTV Germany
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",münchen.tv HD
@@ -100,6 +100,8 @@ https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",QVC HD Germany
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1 group-title="Astra 19.2°E",QVC Style HD
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Regio TV
 https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",RFO (Germany)
@@ -125,7 +127,7 @@ https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Sonnenklar TV
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",SR Fernsehen HD
-https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Tagesschau 24 HD
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Tele 5
