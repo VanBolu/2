@@ -29,6 +29,8 @@ https://starmenajo.com/hls/almahriah/index.m3u8
 https://edge1.taksimbilisim.com/altastv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="yL3s4jwp0ivExp" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Anadolu Net TV
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 tvg-id="Zzw5XdFQULzoOQ" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Aras TV
+https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="laMNKAVyTuHniN" tvg-language="Turkish" tvg-country="TR" group-title="Genel",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 tvg-id="lHa4V9RdrTKUbj" tvg-language="Turkish" tvg-country="TR" group-title="Yerel",ATV Alanya
@@ -42,7 +44,7 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="srU5BUChRvVkhn" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-id="9cbMZrwOtdSUeq" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Bir TV
-https://edge2.taksimbilisim.com/birtv/bant1/playlist.m3u8
+https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr@SD" group-title="Haber",Bloomberg HT (720p) [Not 24/7]
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="Z7tHup27v1j2Td" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Bodrum Kent TV
@@ -59,6 +61,8 @@ https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="nqxj96I7x3VyQ2" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Haber",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e_1080p.m3u8
 #EXTINF:-1 tvg-id="GcJmEq9rilBOie" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Deniz Postasi TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1 tvg-id="DHA.tr@SD" group-title="Genel",DHA (720p) [Not 24/7]
@@ -178,11 +182,9 @@ https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u
 #EXTINF:-1 tvg-id="KNMusicTV.az@SD" group-title="Genel",KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tTuLPLvkfWTeJZ" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Kocaeli TV
-https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
+https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="axZRIy6sk182NP" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Konya Olay TV
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
-#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="Genel",Kurdistan TV (720p) [Not 24/7]
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QQopjrBuObsS3K" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Lalegul TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="sIsIH2RBxpGiQq" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Life TV
@@ -250,6 +252,8 @@ https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" group-title="Müzik",Power Turk (1080p) [Not 24/7]
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AGEdurc99puGj1" tvg-language="Turkish" tvg-country="TR" group-title="Müzik",Power TV
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 #EXTINF:-1 tvg-id="0dpxRMyEdoEj6k" tvg-language="Turkish" tvg-country="TR" group-title="Müzik",PowerTurk Akustik
 https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZJBNWGiPmC8D7J" tvg-language="Turkish" tvg-country="TR" group-title="Müzik",PowerTurk Slow
@@ -266,8 +270,14 @@ https://ruhatv.radyotelekom.com.tr:3515/live/ruhatvlive.m3u8
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr@SD" group-title="Genel",Satranç TV (480p) [Not 24/7]
 http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 tvg-id="73xSFKpT68qZuL" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GOBdXHd7gdoheA" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Sercem TV
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="e6ku1z7iZYh6lv" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Show Max
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+#EXTINF:-1 tvg-id="1GHn7hBwkPvtBl" tvg-language="Turkish" tvg-country="TR" group-title="Genel",Sonmez TV
+https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr@SD" group-title="Genel",Star TV (720p)
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca@SD" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Genel",Stingray Naturescape (1080p)
@@ -296,10 +306,8 @@ https://tv.ensonhaber.com/tv24/tv24.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Tsl1TXkC1cdSTl" tvg-language="Turkish" tvg-country="TR" group-title="Genel",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="9O4Xod3xobbM50" tvg-language="Turkish" tvg-country="TR" group-title="Genel",TRT Avaz
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Genel",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Çocuk",TRT Çocuk
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="aIKbRpQHmkkXLq" tvg-language="Turkish" tvg-country="TR" group-title="Çocuk",TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="3JgrZVIyLGdoxu" tvg-language="Turkish" tvg-country="TR" group-title="Genel",TRT EBA
@@ -310,13 +318,13 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="E5bRl4JchxbV74" tvg-language="Turkish" tvg-country="TR" group-title="Genel",TRT Kurdi
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Genel",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="C9IVKYDQo5BjBO" tvg-language="Turkish" tvg-country="TR" group-title="Müzik",TRT Muzik
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Müzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="3plQYqBTSXG2ii" tvg-language="Turkish" tvg-country="TR" group-title="Genel",TRT Turk
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Genel",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="egFyCvci4RMv2r" tvg-language="Turkish" tvg-country="TR" group-title="Genel",TRT World
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Genel",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TurkHaberTV.tr@SD" group-title="Haber",TürkHaber (720p)
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
@@ -336,6 +344,8 @@ https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.tr@SD" group-title="Genel",TV 8 (1080p)
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-id="kNlSvYLttCaBWF" tvg-language="Turkish" tvg-country="TR" group-title="Genel",TV 8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:-1 tvg-id="8UTFNpq46IxrH2" tvg-language="Turkish" tvg-country="TR" group-title="Genel",TV Den
 https://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-id="fiUFmaRESDKun4" tvg-language="Turkish" tvg-country="TR" group-title="Genel",TVNET
