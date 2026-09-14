@@ -3,6 +3,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=http://www.radio2m.ma/
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 group-title="Hotbird 13°E",4Fun Kids
+https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Al Arabiya HD
@@ -30,7 +32,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a2
 #EXTINF:-1 group-title="Hotbird 13°E",Amazing Facts
 https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Angel TV
-https://video.angelustv.ro/hls/angelustv.m3u8
+https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Antena
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Arirang TV HD
@@ -124,8 +126,6 @@ https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Milady Television
 https://video.ejeserver.com/live/mcitelevision.m3u8
-#EXTINF:-1 group-title="Hotbird 13°E",MTA 3 Al Arabiyah
-https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",MTA International
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",News HD
@@ -172,12 +172,14 @@ https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Sharjah HD
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Hotbird 13°E",Silk Way
+https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Sky News Arabia HD
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",SonLife Broadcasting Network
 https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Sport HD
-https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Stars.TV
 #EXTVLCOPT:http-referrer=https://stream.staratv.id/
 https://stream.staratv.id/hls/0/stream.m3u8
