@@ -29,8 +29,6 @@ http://185.9.2.18/chid_205/index.m3u8
 https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appversion=[APP_VERSION]&ads.devicemodel=[DEVICE_MODEL]&ads.lat=[LMT]&ads.bundleid=[APP_BUNDLE]&ads.donotsell=[DNS]&ads.ifa=[IFA]&ads.targetad=[TARGETAD_ALLOWED]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.appname=[APP_NAME]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.givn=[NONCE]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&ads.coppa=0&ads.ic=[IC]&ads.network_name=[networkname]
 #EXTINF:-1 group-title="Hotbird 13°E",Al Masriyah
 http://185.9.2.18/chid_247/index.m3u8
-#EXTINF:-1 group-title="Hotbird 13°E",Al Mayadeen HD
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Al Sharqiya HD
 http://185.9.2.18/chid_144/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Al-Hadath HD
@@ -38,7 +36,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a2
 #EXTINF:-1 group-title="Hotbird 13°E",Amazing Facts
 https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Angel TV
-https://video.angelustv.ro/hls/angelustv.m3u8
+https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Antena
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Arirang TV HD
@@ -80,7 +78,7 @@ https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",City TV
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",CNBC Europe HD
-http://41.205.93.154/CNBC/index.m3u8
+http://57.128.231.171:8080/234/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Cricket Gold
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Deejay TV
@@ -140,7 +138,7 @@ https://video.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",MTA 3 Al Arabiyah
 https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",MTA International
-https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
+https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",News HD
 https://prideeast.thelegitpro.in/newslive/newslive/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Oman TV HD
@@ -160,7 +158,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Rai 1 HD
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Rai 3 HD
-https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Rai News 24 HD
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Rai Storia
@@ -177,8 +175,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 https://vps122407.serveur-vps.net/hls/drtv.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Rudaw HD
 https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
-#EXTINF:-1 group-title="Hotbird 13°E",SBC HD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Sharjah HD
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Silk Way
@@ -209,7 +205,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",TgCom24
 https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",TNT international
-https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
+http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",TRM Network
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
@@ -235,8 +231,6 @@ https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",TVP World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
-#EXTINF:-1 group-title="Hotbird 13°E",UA TV
-https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Uninettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 group-title="Hotbird 13°E",Viasat History
