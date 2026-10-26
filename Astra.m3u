@@ -3,12 +3,10 @@
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",a.tv
 http://45.171.108.253:8888/ATV/index.m3u8
-#EXTINF:-1 group-title="Astra 19.2°E",Al Jazeera English HD
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="Astra 19.2°E",ALT_Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",ALT_Xplore
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-#EXTINF:-1 group-title="Astra 19.2°E",ARD-alpha HD
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Arirang TV HD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Arte HD
@@ -27,21 +25,21 @@ https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
 https://www.desde-paraguay.com/pro.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Canal+ UHD
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",CGTN HD
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="Astra 19.2°E",CNBC Europe HD
-http://57.128.231.171:8080/234/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",CNews HD
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",CNN International Europe
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Cubavision Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-#EXTINF:-1 group-title="Astra 19.2°E",Das Erste HD
-https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 group-title="Astra 19.2°E",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Astra 19.2°E",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Die Neue Zeit TV
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",DMAX
@@ -61,15 +59,17 @@ https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Handystar TV HD
 https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",HGTV HD
-http://57.128.231.171:8080/241/index.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",hr-fernsehen HD
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",HSE Trend HD
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",HSE24 Extra HD
 https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",HSE24 Trend
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 group-title="Astra 19.2°E",Juwelo HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",KiKa HD
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Krone TV
@@ -77,7 +77,7 @@ https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",LCP HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",MTV
-http://57.128.231.171:8080/227/index.m3u8
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",münchen.tv HD
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",n-tv
@@ -125,9 +125,11 @@ https://live.suricloud.com/hls/tbntv/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Sonnenklar TV
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",SR Fernsehen HD
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Tagesschau 24 HD
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 group-title="Astra 19.2°E",Tele 5
+https://s6.hopslan.com/tele5X/index.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Telegold
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",TeleSex TV
@@ -139,7 +141,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",TRT World HD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",TRWAM
-http://57.128.231.171:8080/338/index.m3u8
+https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
 #EXTINF:-1 group-title="Astra 19.2°E",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",TV5 Monde Europe HD
@@ -150,6 +152,8 @@ http://5.180.164.197:8080/TV5MONDE/index.m3u8
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",VOX
 https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Astra 19.2°E",VOX Österreich
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Welt
 https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Astra 19.2°E",Xplore
