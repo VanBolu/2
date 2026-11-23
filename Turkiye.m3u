@@ -37,8 +37,8 @@ http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Genel",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1 tvg-id="ATVAlanya.tr@SD" group-title="Yerel",ATV Alanya (1080p)
-https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Automotolachaine.fr@SD" tvg-logo="https://i.imgur.com/ebf2uc7.png" group-title="Genel",Automoto la chaine (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Genel",BabyFirst (720p)
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr@SD" group-title="Genel",BENGÜTÜRK TV (720p) [Not 24/7]
@@ -55,6 +55,8 @@ https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 tvg-id="CayTV.tr@SD" group-title="Yerel",Cay TV (720p)
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="ChassePeche.fr@SD" tvg-logo="https://i.imgur.com/ZIS2ZQ1.png" group-title="Genel",Chasse & Peche (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr@SD" group-title="Genel",Çiftçi TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Haber",CNBC-e
@@ -91,11 +93,11 @@ https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
 https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr@SD" group-title="Genel",Euro D (720p)
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-id="FBTV.tr@SD" group-title="Genel",FB TV
+#EXTINF:-1 tvg-id="FBTV.tr@SD" group-title="Genel",FB TV (720p)
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FinansTurkTV.tr@SD" group-title="Genel",Finans Turk TV (720p)
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
-#EXTINF:-1 tvg-id="FlashHaberTV.tr@SD" group-title="Haber",Flash Haber TV
+#EXTINF:-1 tvg-id="FlashHaberTV.tr@SD" group-title="Haber",Flash Haber TV (1080p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.tr@HD" group-title="Genel",Fortuna TV (1080p)
 https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
@@ -104,7 +106,7 @@ https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr@SD" group-title="Haber",Haber Global (720p) [Not 24/7]
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="Haber61TV.tr@SD" group-title="Haber",Haber61 TV (720p) [Not 24/7]
-https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Haber",Habertürk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr@SD" group-title="Haber",Habertürk TV (720p) [Not 24/7]
@@ -155,16 +157,12 @@ https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="KentTurk.tr@SD" group-title="Genel",Kent Türk TV (1080p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="KNMusicTV.az@SD" group-title="Genel",KN Music TV
-https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KocaeliTV.tr@SD" group-title="Genel",Kocaeli TV (1080p)
 https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KonyaOlayTV.tr@SD" group-title="Genel",Konya Olay TV (720p)
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 #EXTINF:-1 tvg-id="KRT.tr@SD" group-title="Genel",KRT (1080p)
 https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8
-#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="Genel",Kurdistan TV (720p) [Not 24/7]
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LalegulTV.tr@SD" group-title="Genel",Lalegul TV (1080p)
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="LifeTV.tr@SD" group-title="Genel",Life TV (720p) [Not 24/7]
@@ -199,12 +197,16 @@ https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr@SD" group-title="Çocuk",Minika Go (720p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-id="MTurkTV.tr@SD" group-title="Genel",MTürk TV (1080p)
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Genel",MyZen TV (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr@SD" group-title="Genel",Natural TV (720p) [Not 24/7]
 https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Genel",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Haber",NTV
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 tvg-id="NTV.tr@SD" group-title="Haber",NTV (1080p)
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 tvg-id="Number1Ask.tr@SD" group-title="Genel",Number 1 Ask (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Number1Damar.tr@SD" group-title="Genel",Number 1 Damar (720p)
@@ -231,14 +233,16 @@ https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTaptaze.tr@SD" group-title="Müzik",Power Türk Taptaze (1080p)
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTV.tr@SD" group-title="Müzik",Power TV (1080p)
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTV.tr@SD" group-title="Müzik",Power TV (720p)
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" group-title="Müzik",PowerTürk TV (720p)
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sat7Turk.cy@SD" group-title="Genel",Sat7 Türk (1080p)
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr@SD" group-title="Genel",Satranç TV (480p) [Not 24/7]
 http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 tvg-id="ScienceVieTV.fr@SD" tvg-logo="https://i.imgur.com/9ELsSMI.png" group-title="Genel",Science & Vie TV (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="SemerkandTV.tr@SD" group-title="Genel",Semerkand TV (1080p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SercemTV.tr@HD" group-title="Genel",Sercem TV (1080p)
@@ -264,8 +268,12 @@ https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Haber",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-id="ThaqalaynTV.tr@SD" tvg-logo="https://i.imgur.com/u02FSgI.png" group-title="Genel",Thaqalayn TV (480p)
+http://62.60.207.173:8080/hls/thaqalayn/index.m3u8
 #EXTINF:-1 tvg-id="Tivi6.tr@SD" group-title="Genel",Tivi 6 (720p)
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-id="TJKTV.tr@SD" group-title="Spor",TJK TV (1080p)
+https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 tvg-id="TonTV.tr@SD" group-title="Genel",Ton TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 tvg-id="24TV.tr@SD" group-title="Genel",TR24 TV (720p) [Not 24/7]
@@ -288,6 +296,8 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTEBA.tr@SD" group-title="Genel",TRT EBA Ortaokul (720p)
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTGenc.tr@SD" group-title="Genel",TRT Genc (1440p) [Geo-blocked]
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" group-title="Genel",TRT Kurdi
@@ -328,11 +338,11 @@ https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 #EXTINF:-1 tvg-id="UrfaNatikTV.tr@SD" group-title="Genel",Urfa Natik TV (720p)
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:-1 tvg-id="Van65TV.tr@SD" group-title="Genel",Van 65 TV
+#EXTINF:-1 tvg-id="Van65TV.tr@SD" group-title="Genel",Van 65 TV (720p)
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 tvg-id="VavTV.tr@SD" group-title="Genel",Vav TV (1080p)
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png" group-title="Genel",West Azerbaijan TV
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png" group-title="Genel",West Azerbaijan TV (576p)
 https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 #EXTINF:-1 tvg-id="YOLTV.de@SD" tvg-logo="https://i.imgur.com/rTBX6lS.png" group-title="Genel",YOL TV (720p)
 https://live.yoltv.com/hls/stream.m3u8
